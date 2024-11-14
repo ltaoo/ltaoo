@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![ltaoo's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltaoo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ltaoo's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltaoo&theme=dracula)](https://github.com/ltaoo)
 
-[![ltaoo's github stats](https://github-readme-stats.vercel.app/api?username=ltaoo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ltaoo's github stats](https://github-readme-stats.vercel.app/api?username=ltaoo&show_icons=true&theme=vue-dark)](https://github.com/ltaoo)
+[![ltaoo's language](https://github-readme-stats.vercel.app/api/top-langs/?username=ltaoo&layout=compact&langs_count=8&theme=radical)](https://github.com/ltaoo)
