@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Feel free to contact me via WeChat at: hnust_lt.
-
 <!--
 **ltaoo/ltaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
