@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ltaoo's github stats](https://github-readme-stats.vercel.app/api?username=ltaoo&show_icons=true&theme=vue-dark)](https://github.com/ltaoo)
+[![ltaoo's github stats](https://github-readme-stats-nine-weld-40.vercel.app/api?username=ltaoo&show_icons=true&theme=vue-dark)](https://github.com/ltaoo)
